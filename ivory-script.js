@@ -1,11 +1,3 @@
-/* JavaScript Document
-
-Tooplate 2166 Ivory Flow
-    
-https://www.tooplate.com/view/2166-ivory-flow
-
-*/
-
 (function() {
   'use strict';
 
