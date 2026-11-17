@@ -1,12 +1,16 @@
 # Ivory Flow — Luxury Lifestyle & Interior Design
 
-\<p align="center">   \<strong>The Art of Quiet Luxury\</strong> \</p>
+<p align="center">
+  <strong>The Art of Quiet Luxury</strong>
+</p>
 
-\<p align="center">   A refined digital experience showcasing timeless furniture, curated interiors, craftsmanship, and minimalist living. \</p>
+<p align="center">
+  A refined digital experience showcasing timeless furniture, curated interiors, craftsmanship, and minimalist living.
+</p>
 
-\<p align="center">   \<a href="[https://codewithnavitha.github.io/Ivory-Flow/](https://codewithnavitha.github.io/Ivory-Flow/)">Live Demo\</a> \</p>
-
----
+<p align="center">
+  <a href="https://codewithnavitha.github.io/Ivory-Flow/">Live Demo</a>
+</p>
 
 ## 🌿 About the Project
 
