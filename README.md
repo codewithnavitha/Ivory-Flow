@@ -93,10 +93,10 @@ GitHub: [https://github.com/codewithnavitha](https://github.com/codewithnavitha)
 
 ---
 
-\<p align="center">
-&#x20; Designed with an appreciation for simplicity, elegance, and timeless living.
-\</p>
+<p align="center">
+  Designed with an appreciation for simplicity, elegance, and timeless living.
+</p>
 
-\<p align="center">
-&#x20; \<strong>Ivory Flow — The Art of Quiet Luxury.\</strong>
-\</p>
+<p align="center">
+  <strong>Ivory Flow — The Art of Quiet Luxury.</strong>
+</p>
